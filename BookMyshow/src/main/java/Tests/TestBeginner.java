@@ -23,6 +23,7 @@ public class TestBeginner {
 	 { WebDriver driver = new BookmyShowConfig("ie").initializeBrowser();
 	  validations.test1(driver);
 	  driver.quit();
+	  // update
 	 }
 	 
 	 
