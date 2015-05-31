@@ -12,6 +12,7 @@ import testScripts.GUIValidations;
 public class TestBeginner {
 	
 	GUIValidations  validations =null;
+	test
 	
 	@BeforeTest
 	public void BeforeTest()
